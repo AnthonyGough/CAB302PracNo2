@@ -2,6 +2,8 @@ public class User {
     private String username;
     private String password;
 
+    /* This is the new code added to the user class */
+
     public User(String username, String password) {
         this.username = username;
         this.password = password;
